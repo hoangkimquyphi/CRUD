@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 932503,
+      "categoryId": "1",
+      "productName": "Phi",
+      "description": "Dt",
+      "rating": "1",
+      "price": "1",
+      "productImg": "https://wscdn.vn/upload/original-image/uploads/collection1/OP990-45ADGS-GL-X-1-1654832217252.jpg?size=500x500&fomat=webp",
+      "isValiable": "1",
+      "color": "D"
+    },
+    {
+      "productName": "hoasdgasdgasidas",
+      "categoryId": "2",
+      "productImg": "https://wscdn.vn/upload/original-image/1-KHUNG-SP-1129271049-505289889.jpg?size=500x500&fomat=webp",
+      "color": "D",
+      "price": "1",
+      "description": "D",
+      "rating": "5",
+      "isValiable": "1",
+      "id": 706227
+    },
+    {
+      "id": 210571,
+      "categoryId": "2",
+      "productName": "Hoang",
+      "description": "hiihhi",
+      "rating": "1",
+      "price": "2000",
+      "productImg": "https://wscdn.vn/upload/original-image/uploads/collection1/L4.899.3.99.7-2-1679999428491.jpg?size=800x800&fomat=webp",
+      "isValiable": "1",
+      "color": "Dd"
+    },
+    {
+      "id": 728276,
+      "categoryId": "6",
+      "productName": "PHIyyyyyy",
+      "description": "guurt",
+      "rating": "2",
+      "price": "2002",
+      "productImg": "https://wscdn.vn/upload/original-image/1-KHUNG-SP-1-1818542633-1853976209.jpg?size=800x800&fomat=webp",
+      "isValiable": "1",
+      "color": "den"
+    },
+    {
+      "id": 47868,
+      "categoryId": "1",
+      "productName": "PHIhuhuhu",
+      "description": "guurt",
+      "rating": "1",
+      "price": "222222",
+      "productImg": "https://toigingiuvedep.vn/wp-content/uploads/2022/05/anh-ga-trong-1.jpg",
+      "isValiable": "1",
+      "color": "D"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "DOONGHO"
+    },
+    {
+      "id": 2,
+      "categoryName": "CAMUNG"
+    },
+    {
+      "id": 3,
+      "categoryName": "GG"
+    },
+    {
+      "id": 4,
+      "categoryName": "Ram"
+    },
+    {
+      "id": 5,
+      "categoryName": "CPU"
+    },
+    {
+      "id": 6,
+      "categoryName": "Pad"
+    },
+    {
+      "id": 7,
+      "categoryName": "Case"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
